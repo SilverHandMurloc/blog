@@ -6,7 +6,7 @@ description: "本地GitHub多账号切换"
 ---
 
 > Secrets are things we give to others to keep for us. 
-
+* random line to make it work. This will be removed.
 {:toc}
 
 ## 问题
@@ -68,7 +68,7 @@ ssh -T personal
 
 ### 使用
 
-<span class = "alert y"></span>
+<span class = "alert y">Careful.</span>
 
 一般情况下，我们是这样用的
 ``` shell
