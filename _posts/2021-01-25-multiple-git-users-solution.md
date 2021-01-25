@@ -6,6 +6,7 @@ description: "本地GitHub多账号切换"
 ---
 
 > Secrets are things we give to others to keep for us. 
+
 * random line to make it work. This will be removed.
 {:toc}
 
@@ -36,7 +37,8 @@ ssh-keygen -t rsa -C "another_mail_address"
 
 - 在 ~/.ssh/ 目录下创建一个 config 文件
 - 写入
-```
+
+``` plaintext
 # first account
 Host first
     HostName github.com
